@@ -25,7 +25,7 @@ This is a simple but advanced POS system that have inventory management faciliti
 
 To deploy this project run
 
-- Install MySQL and JAVA to your computer.
+- Install MySQL and JAVA to your computer and create locan instant with user: root and password: 7410.
 - Deploy the database on MySQL with executing the code in sql folder.
 - Make sure all quaries are execute without errors.
 - Open the project in Netbeans or suitable IDE.
